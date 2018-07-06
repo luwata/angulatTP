@@ -1,0 +1,20 @@
+.app > h1{
+	text-align: center;
+	margin: 2rem 0;
+}
+
+.list-books{
+	border-radius: 8px;
+}
+
+.list-books, .list-books .row{
+	border: 1px solid #000;
+}
+
+.btn-style{
+	width:100px;
+}
+
+.btn-style:hover{
+	cursor: initial;
+}
